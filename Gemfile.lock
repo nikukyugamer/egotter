@@ -446,7 +446,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.5)
-    user_agent_parser (2.5.1)
+    user_agent_parser (2.7.0)
     warden (1.2.8)
       rack (>= 2.0.6)
     web-console (3.7.0)
