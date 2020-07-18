@@ -148,7 +148,7 @@ GEM
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     ffi (1.10.0)
-    geocoder (1.5.1)
+    geocoder (1.6.3)
     get_process_mem (0.2.5)
       ffi (~> 1.0)
     globalid (0.4.2)
